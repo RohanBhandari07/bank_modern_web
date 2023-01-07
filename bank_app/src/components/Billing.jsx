@@ -18,9 +18,13 @@ const Billing = () => (
         invoicing
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        In fact, it is the product, but also the mass. 
+        In fact, the entire medical center is located in the whole street.
+           <h1> <span className="text-gradient">Big dreams start with smart plans.
+                 We can help
+                 </span>{" "}
+          </h1>
+
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
